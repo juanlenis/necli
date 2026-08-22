@@ -1,0 +1,44 @@
+{
+  "name": "nequi-expense-tracker",
+  "version": "1.0.0",
+  "description": "A mobile application to track expenses and income from Nequi messages.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.64.2",
+    "react-navigation": "^4.4.4",
+    "react-native-push-notification": "^8.1.1",
+    "react-native-sms-receiver": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.64.2",
+    "typescript": "^4.4.3",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/nequi-expense-tracker.git"
+  },
+  "keywords": [
+    "nequi",
+    "expense",
+    "tracker",
+    "mobile",
+    "react-native"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/nequi-expense-tracker/issues"
+  },
+  "homepage": "https://github.com/yourusername/nequi-expense-tracker#readme"
+}
