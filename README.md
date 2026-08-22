@@ -1,2 +1,0 @@
-# necli
-gastos pa to'
