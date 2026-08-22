@@ -29,7 +29,7 @@ The application uses the following categories and subcategories for classifying 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/juanlenis/necli.git
+   git clone https://github.com/yourusername/nequi-expense-tracker.git
    ```
 2. Navigate to the project directory:
    ```
